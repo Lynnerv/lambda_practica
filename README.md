@@ -1,6 +1,7 @@
 LAMBDA_PRACTICA
 
-URL: https://lwlua1pnnd.execute-api.us-east-1.amazonaws.com/desa/
+URL:
+https://lwlua1pnnd.execute-api.us-east-1.amazonaws.com/desa/
 
 EJEMPLOS DE USO:
 MÉTODO POST
